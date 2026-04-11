@@ -33,7 +33,7 @@ const socialLinks = [
   },
   {
     name: "TikTok",
-    url: "https://www.tiktok.com/@rutysperscent1",
+    url: "https://www.tiktok.com/@1trudy1",
     bg: "bg-[#ff0050]",
     icon: (
       <svg viewBox="0 0 24 24" fill="currentColor" className="w-5 h-5">
