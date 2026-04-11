@@ -3,7 +3,7 @@ import React from "react";
 import ceo from "@/assets/ceo.jpg";
 import gallery1 from "@/assets/enhanced-glam.jpg";
 import gallery2 from "@/assets/enhanced-makeup.jpg";
-import gallery3 from "@/assets/enhanced-glam.jpg";
+import gallery3 from "@/assets/user-glam.jpg";
 import gallery4 from "@/assets/enhanced-hair1.jpg";
 import gallery5 from "@/assets/enhanced-braids1.jpg";
 import gallery6 from "@/assets/enhanced-braids2.jpg";
